@@ -1,6 +1,6 @@
 # Cmpg323-Overview-32242883
 
-## Repositories List :
+## 1.Repositories List :
 
  <a href ="https://github.com/UliHuss10/Cmpg323-Overview-32242883.git"> 1.Overview Repo   </a> <br>
  <a href ="https://github.com/UliHuss10/Cmpg323-Overview-32242883.git"> 2.Overview Repo   </a> <br>
@@ -9,6 +9,10 @@
 
 
 
-## Diagram Explaining Project
+## 2.Diagram Explaining Project
 
-## Branching Strategy
+## 3.Branching Strategy
+
+## 4..Gitignore file within each project
+
+## 5.Storage of credentials and sensitive information
