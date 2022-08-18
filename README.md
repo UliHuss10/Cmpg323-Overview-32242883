@@ -2,15 +2,18 @@
 
 ## 1.Repositories List :
 
- <a href ="https://github.com/UliHuss10/Cmpg323-Overview-32242883.git"> 1.Overview    </a> <br>
- <a href ="https://github.com/UliHuss10/CMPG323-Project2-32242883.git"> 2.Project 2    </a> <br>
- <a href ="https://github.com/UliHuss10/CMPG323-Project3---32242883.git"> 3..Project 3    </a> <br>
- <a href ="https://github.com/UliHuss10/CMPG323-Project4---32242883.git"> 3..Project 4    </a> <br>
- <a href ="https://github.com/UliHuss10/CMPG323-Project-5---32242883.gitt"> 4..Project 5    </a>
+ <a href ="https://github.com/UliHuss10/Cmpg323-Overview-32242883.git"> Project 1: Agile & SCRUM    </a> <br>
+ <a href ="https://github.com/UliHuss10/CMPG323-Project2-32242883.git"> Project 2: API Development </a> <br>
+ <a href ="https://github.com/UliHuss10/CMPG323-Project3---32242883.git"> Project 3: Web App Project   </a> <br>
+ <a href ="https://github.com/UliHuss10/CMPG323-Project4---32242883.git"> Project 4: RPA & Testing    </a> <br>
+ <a href ="https://github.com/UliHuss10/CMPG323-Project-5---32242883.gitt"> Project 5: Reporting    </a>
 
 
 
 ## 2.Diagram Explaining Project
+
+![chart](https://user-images.githubusercontent.com/103369152/185408365-d465b4eb-6d45-43ca-821c-9c59b259e2f5.png)
+
 ![Diagram](https://user-images.githubusercontent.com/103369152/185396183-8bf4f793-4a71-4aa4-8d30-6e92b45ea1ac.png)
 
 
