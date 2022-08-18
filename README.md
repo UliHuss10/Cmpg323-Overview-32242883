@@ -12,7 +12,7 @@
 
 ## 2.Diagram Explaining Project
 
-
+![](images/https://github.com/UliHuss10/Cmpg323-Overview-32242883/commit/86500e13c896b436bf116c8d6b4bf91cf3545b07#r81518695)
 
 ## 3.Branching Strategy
 
