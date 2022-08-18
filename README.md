@@ -28,3 +28,5 @@ After each project is done it is pushed to the main repo. Each project contains 
 Im using .Gitignore for all of the projects.The .gitignore file tells Git which files to ignore when committing your project to the GitHub repository. gitignore is located in the root directory of my repo.The purpose of this .gitignore files is to ensure that certain files not tracked by git remain untracked.
 
 ## 5.Storage of credentials and sensitive information
+The Repositories is all public so everone on github has access to the repos so it wouldnt be wise to attactch any personal information to the projects because it can be exposed easily.
+
