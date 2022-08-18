@@ -17,6 +17,7 @@
 
 ## 3.Branching Strategy
 
+![gitflow-eb3f4dcf2519612fde7260fde99ace54](https://user-images.githubusercontent.com/103369152/185399195-25f14ce6-d90b-49d7-ad66-3cbd15486664.png)
 
 ## 4..Gitignore file within each project
 
