@@ -11,8 +11,9 @@
 
 
 ## 2.Diagram Explaining Project
+![Diagram](https://user-images.githubusercontent.com/103369152/185396183-8bf4f793-4a71-4aa4-8d30-6e92b45ea1ac.png)
 
-![](images/https://github.com/UliHuss10/Cmpg323-Overview-32242883/commit/86500e13c896b436bf116c8d6b4bf91cf3545b07#r81518695)
+
 
 ## 3.Branching Strategy
 
